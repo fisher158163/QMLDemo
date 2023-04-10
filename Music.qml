@@ -1,5 +1,5 @@
-// import QtQuick
 import QtQuick 2.0
+import QtQuick.Controls 2.2
 import QtQuick.Window
 
 Window {
@@ -29,10 +29,12 @@ Window {
 
                 ListElement {
                     name: "探索"
+                    // con: component1
                   }
 
                 ListElement {
                     name: "创作"
+                    // con: component2
                     }
 
                 ListElement {
@@ -89,6 +91,7 @@ Window {
                             onClicked: {
                                  // 点击选中哪一项
                                 list.currentIndex = index
+                                stack.push(component3)
                             }
                         }
                     }
@@ -111,14 +114,160 @@ Window {
                 }
            }
 
-        Rectangle {
-            id: rectangle2
-            anchors.top: parent.top
-            anchors.bottom: parent.bottom
-            anchors.left: rectangle1.right
-            anchors.right: parent.right
-            color: "blue"
-        }
+//        Rectangle {
+//            id: rectangle2
+//            anchors.top: parent.top
+//            anchors.bottom: parent.bottom
+//            anchors.left: rectangle1.right
+//            anchors.right: parent.right
+//            color: "blue"
+//        }
+
+        StackView {
+                id: stack
+                anchors.top: parent.top
+                anchors.bottom: parent.bottom
+                anchors.left: rectangle1.right
+                anchors.right: parent.right
+                // orientation: Qt.Vertical
+                Component.onCompleted: {
+                    stack.push(component7)
+                    stack.push(component6)
+                    stack.push(component5)
+                    stack.push(component4)
+                    stack.push(component3)
+                    stack.push(component2)
+                    stack.push(component1)
+                }
+
+                // 转场动画
+                popEnter: Transition{}
+                     popExit: Transition {
+                        NumberAnimation {
+                            properties: "y"
+                            from: 0
+                            to: stack.height
+                            duration: 250
+                        }
+                     }
+                     pushEnter: Transition {
+                        NumberAnimation {
+                            properties: "y"
+                            from: stack.height
+                            to: 0
+                            duration: 250
+                        }
+                     }
+                     pushExit: Transition{}
+                     replaceEnter: Transition{}
+                     replaceExit: Transition{}
+            }
+
+        Component {
+                id: component1
+                Rectangle {
+                   color: "cyan"
+                   Text {
+                       text: "探索"
+                       color: "white"
+                       font.bold: true
+                       font.pixelSize: 60
+                       // 设置文字居中
+                       anchors.centerIn: parent
+                   }
+                }
+            }
+
+        Component {
+                id: component2
+                Rectangle {
+                   color: "yellow"
+                   Text {
+                       text: "创作"
+                       color: "white"
+                       font.bold: true
+                       font.pixelSize: 60
+                       // 设置文字居中
+                       anchors.centerIn: parent
+                   }
+                }
+            }
+
+        Component {
+                id: component3
+                Rectangle {
+                   color: "pink"
+                   Text {
+                       text: "工作"
+                       color: "white"
+                       font.bold: true
+                       font.pixelSize: 60
+                       // 设置文字居中
+                       anchors.centerIn: parent
+                   }
+                }
+            }
+
+        Component {
+                id: component4
+                Rectangle {
+                   color: "brown"
+                   Text {
+                       text: "游戏"
+                       color: "white"
+                       font.bold: true
+                       font.pixelSize: 60
+                       // 设置文字居中
+                       anchors.centerIn: parent
+                   }
+                }
+            }
+
+        Component {
+                id: component5
+                Rectangle {
+                   color: "red"
+                   Text {
+                       text: "开发"
+                       color: "white"
+                       font.bold: true
+                       font.pixelSize: 60
+                       // 设置文字居中
+                       anchors.centerIn: parent
+                   }
+                }
+            }
+
+        Component {
+                id: component6
+                Rectangle {
+                   color: "green"
+                   Text {
+                       text: "类别"
+                       color: "white"
+                       font.bold: true
+                       font.pixelSize: 60
+                       // 设置文字居中
+                       anchors.centerIn: parent
+                   }
+                }
+            }
+
+        Component {
+                id: component7
+                Rectangle {
+                   color: "orange"
+                   Text {
+                       text: "更新"
+                       color: "white"
+                       font.bold: true
+                       font.pixelSize: 60
+                       // 设置文字居中
+                       anchors.centerIn: parent
+                   }
+                }
+            }
+
     }
 
     // generateColor
