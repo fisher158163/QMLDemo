@@ -16,6 +16,7 @@ qt_add_qml_module(appQMLDemo
     URI QMLDemo
     VERSION 1.0
     QML_FILES Main.qml
+    QML_FILES Music.qml
 )
 
 set_target_properties(appQMLDemo PROPERTIES
