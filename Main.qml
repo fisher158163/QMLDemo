@@ -4,8 +4,8 @@ import QtQuick.Window
 Window {
     width: 900
     height: 500
-    minimumWidth: 450
-    minimumHeight: 250
+    minimumWidth: 900
+    minimumHeight: 500
     visible: true
     // 无边框窗口
     // flags: Qt.FramelessWindowHint
@@ -20,7 +20,7 @@ Window {
             anchors.top: parent.top
             anchors.bottom: parent.bottom
             anchors.left: parent.left
-//          anchors.centerIn: parent
+            // anchors.centerIn: parent
             width: parent.width/3
             color: "red"
 
