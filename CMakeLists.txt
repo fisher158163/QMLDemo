@@ -7,9 +7,12 @@ set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
 find_package(Qt6 6.2 REQUIRED COMPONENTS Quick)
 
-
 qt_add_executable(appQMLDemo
     main.cpp
+)
+
+set(SOURCES
+    Tools.js
 )
 
 qt_add_qml_module(appQMLDemo
@@ -17,6 +20,14 @@ qt_add_qml_module(appQMLDemo
     VERSION 1.0
     QML_FILES Main.qml
     QML_FILES Music.qml
+
+    QML_FILES DiscoverView.qml
+    QML_FILES CreateView.qml
+    QML_FILES WorkView.qml
+    QML_FILES GameView.qml
+    QML_FILES DevelopView.qml
+    QML_FILES CategoryView.qml
+    QML_FILES UpdateView.qml
 )
 
 set_target_properties(appQMLDemo PROPERTIES

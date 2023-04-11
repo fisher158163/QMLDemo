@@ -1,6 +1,8 @@
 import QtQuick 2.0
 import QtQuick.Controls 2.2
 import QtQuick.Window
+// import "Tools.js" as Tool
+// import "qrc:/Tools.js" as Tool
 
 Window {
     width: 1150
@@ -30,7 +32,7 @@ Window {
                 ListElement {
                     name: "探索"
                     // con: component1
-                  }
+                }
 
                 ListElement {
                     name: "创作"
@@ -39,24 +41,24 @@ Window {
 
                 ListElement {
                     name: "工作"
-                   }
+                }
 
                 ListElement {
                     name: "游戏"
-                   }
+                }
 
                 ListElement {
                     name: "开发"
-                   }
+                }
 
                 ListElement {
                     name: "类别"
-                   }
+                }
 
                 ListElement {
                     name: "更新"
-                   }
-              }
+                }
+            }
 
             ListView {
                     id: list
@@ -91,7 +93,7 @@ Window {
                             onClicked: {
                                  // 点击选中哪一项
                                 list.currentIndex = index
-                                stack.push(component3)
+                                stack.push(workView)
                             }
                         }
                     }
@@ -112,7 +114,7 @@ Window {
                         }
                     }
                 }
-           }
+        }
 
 //        Rectangle {
 //            id: rectangle2
@@ -131,142 +133,65 @@ Window {
                 anchors.right: parent.right
                 // orientation: Qt.Vertical
                 Component.onCompleted: {
-                    stack.push(component7)
-                    stack.push(component6)
-                    stack.push(component5)
-                    stack.push(component4)
-                    stack.push(component3)
-                    stack.push(component2)
-                    stack.push(component1)
+                    stack.push(updateView)
+                    stack.push(categoryView)
+                    stack.push(developView)
+                    stack.push(gameView)
+                    stack.push(workView)
+                    stack.push(createView)
+                    stack.push(discoverView)
                 }
 
                 // 转场动画
                 popEnter: Transition{}
-                     popExit: Transition {
+                    popExit: Transition {
                         NumberAnimation {
                             properties: "y"
                             from: 0
                             to: stack.height
                             duration: 250
                         }
-                     }
-                     pushEnter: Transition {
+                    }
+                    pushEnter: Transition {
                         NumberAnimation {
                             properties: "y"
                             from: stack.height
                             to: 0
                             duration: 250
                         }
-                     }
-                     pushExit: Transition{}
-                     replaceEnter: Transition{}
-                     replaceExit: Transition{}
+                    }
+                    pushExit: Transition{}
+                    replaceEnter: Transition{}
+                    replaceExit: Transition{}
             }
 
-        Component {
-                id: component1
-                Rectangle {
-                   color: "cyan"
-                   Text {
-                       text: "探索"
-                       color: "white"
-                       font.bold: true
-                       font.pixelSize: 60
-                       // 设置文字居中
-                       anchors.centerIn: parent
-                   }
-                }
-            }
+        DiscoverView {
+            id: discoverView
+        }
 
-        Component {
-                id: component2
-                Rectangle {
-                   color: "yellow"
-                   Text {
-                       text: "创作"
-                       color: "white"
-                       font.bold: true
-                       font.pixelSize: 60
-                       // 设置文字居中
-                       anchors.centerIn: parent
-                   }
-                }
-            }
+        CreateView {
+            id: createView
+        }
 
-        Component {
-                id: component3
-                Rectangle {
-                   color: "pink"
-                   Text {
-                       text: "工作"
-                       color: "white"
-                       font.bold: true
-                       font.pixelSize: 60
-                       // 设置文字居中
-                       anchors.centerIn: parent
-                   }
-                }
-            }
+        WorkView {
+            id: workView
+        }
 
-        Component {
-                id: component4
-                Rectangle {
-                   color: "brown"
-                   Text {
-                       text: "游戏"
-                       color: "white"
-                       font.bold: true
-                       font.pixelSize: 60
-                       // 设置文字居中
-                       anchors.centerIn: parent
-                   }
-                }
-            }
+        GameView {
+            id: gameView
+        }
 
-        Component {
-                id: component5
-                Rectangle {
-                   color: "red"
-                   Text {
-                       text: "开发"
-                       color: "white"
-                       font.bold: true
-                       font.pixelSize: 60
-                       // 设置文字居中
-                       anchors.centerIn: parent
-                   }
-                }
-            }
+        DevelopView {
+            id: developView
+        }
 
-        Component {
-                id: component6
-                Rectangle {
-                   color: "green"
-                   Text {
-                       text: "类别"
-                       color: "white"
-                       font.bold: true
-                       font.pixelSize: 60
-                       // 设置文字居中
-                       anchors.centerIn: parent
-                   }
-                }
-            }
+        CategoryView {
+            id: categoryView
+        }
 
-        Component {
-                id: component7
-                Rectangle {
-                   color: "orange"
-                   Text {
-                       text: "更新"
-                       color: "white"
-                       font.bold: true
-                       font.pixelSize: 60
-                       // 设置文字居中
-                       anchors.centerIn: parent
-                   }
-                }
-            }
+        UpdateView {
+            id: updateView
+        }
 
     }
 
