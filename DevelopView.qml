@@ -4,7 +4,7 @@ import QtQuick.Controls 2.2
 Component {
         // id: developView
         Rectangle {
-        color: "red"
+        color: "gray"
         Text {
             text: "开发"
             color: "white"
