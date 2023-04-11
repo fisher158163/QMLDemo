@@ -14,7 +14,8 @@ Window {
     // flags: Qt.FramelessWindowHint
     title: qsTr("App Store")
 
-    // var comp = [discoverView, createView, workView, gameView, developView, categoryView, updateView]
+    // selectIndex
+    // var preSelectIndex = 0
 
     Item {
         id: item
@@ -33,37 +34,30 @@ Window {
 
                 ListElement {
                     name: "探索"
-                    //component: getComponent(1)
                 }
 
                 ListElement {
                     name: "创作"
-                    //component: getComponent(1)
                 }
 
                 ListElement {
                     name: "工作"
-                    //component: getComponent(1)
                 }
 
                 ListElement {
                     name: "游戏"
-                    //component: getComponent(1)
                 }
 
                 ListElement {
                     name: "开发"
-                    //component: getComponent(1)
                 }
 
                 ListElement {
                     name: "类别"
-                    //component: getComponent(1)
                 }
 
                 ListElement {
                     name: "更新"
-                    //component: getComponent(1)
                 }
             }
 
@@ -100,7 +94,10 @@ Window {
                             onClicked: {
                                  // 点击选中哪一项
                                 list.currentIndex = index
+                                 // getComponents
                                 stack.push(getComponents(index))
+                                // preSelectIndex
+                                // preSelectIndex = index
                             }
                         }
                     }
@@ -140,12 +137,6 @@ Window {
                 anchors.right: parent.right
                 // orientation: Qt.Vertical
                 Component.onCompleted: {
-//                  stack.push(updateView)
-//                  stack.push(categoryView)
-//                  stack.push(developView)
-//                  stack.push(gameView)
-//                  stack.push(workView)
-//                  stack.push(createView)
                     stack.push(discoverView)
                 }
 
@@ -212,7 +203,7 @@ Window {
         return color
     }
 
-    // getComponent
+    // getComponents
     function getComponents(index) {
         var component = discoverView
         if (index === 0) {
