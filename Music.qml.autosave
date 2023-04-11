@@ -14,8 +14,6 @@ Window {
     // flags: Qt.FramelessWindowHint
     title: qsTr("App Store")
 
-    // var comp = [discoverView, createView, workView, gameView, developView, categoryView, updateView]
-
     Item {
         id: item
         anchors.fill: parent
@@ -33,37 +31,30 @@ Window {
 
                 ListElement {
                     name: "探索"
-                    //component: getComponent(1)
                 }
 
                 ListElement {
                     name: "创作"
-                    //component: getComponent(1)
                 }
 
                 ListElement {
                     name: "工作"
-                    //component: getComponent(1)
                 }
 
                 ListElement {
                     name: "游戏"
-                    //component: getComponent(1)
                 }
 
                 ListElement {
                     name: "开发"
-                    //component: getComponent(1)
                 }
 
                 ListElement {
                     name: "类别"
-                    //component: getComponent(1)
                 }
 
                 ListElement {
                     name: "更新"
-                    //component: getComponent(1)
                 }
             }
 
