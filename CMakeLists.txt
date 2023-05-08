@@ -19,7 +19,7 @@ qt_add_qml_module(appQMLDemo
     URI QMLDemo
     VERSION 1.0
     QML_FILES Main.qml
-    QML_FILES Music.qml
+    QML_FILES AppStore.qml
 
     QML_FILES DiscoverView.qml
     QML_FILES CreateView.qml
