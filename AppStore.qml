@@ -1,7 +1,6 @@
 import QtQuick 2.0
 import QtQuick.Controls 2.2
 import QtQuick.Window
-// import "Tools.js" as Tool
 // import "qrc:/Tools.js" as Tool
 
 Window {

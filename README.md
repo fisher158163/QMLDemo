@@ -16,5 +16,5 @@
 
 ![图7](https://p.ipic.vip/ngwrji.png)
 
-![图8](https://p.ipic.vip/fklkxz.png)
+<!--![图8](https://p.ipic.vip/fklkxz.png)-->
   
