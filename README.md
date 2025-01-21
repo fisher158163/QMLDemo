@@ -1,6 +1,6 @@
 # QMLDemo
 
- 一个用QML写的Qt Demo：
+ a qt demo written in QML：
  
 ![图1](https://p.ipic.vip/m334wd.png)
 
