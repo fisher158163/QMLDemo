@@ -1,0 +1,13 @@
+module QMLDemo
+typeinfo appQMLDemo.qmltypes
+prefer :/QMLDemo/
+Main 1.0 Main.qml
+AppStore 1.0 AppStore.qml
+DiscoverView 1.0 DiscoverView.qml
+CreateView 1.0 CreateView.qml
+WorkView 1.0 WorkView.qml
+GameView 1.0 GameView.qml
+DevelopView 1.0 DevelopView.qml
+CategoryView 1.0 CategoryView.qml
+UpdateView 1.0 UpdateView.qml
+

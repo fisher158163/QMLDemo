@@ -1,0 +1,20 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 31,
+                        "durationMicroseconds": 95,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 14
+                    }
+                ],
+                "filepath": "/Users/liyu/Documents/Apple Development/QMLDemo/DiscoverView.qml"
+            }
+        ],
+        "moduleId": "QMLDemo(appQMLDemo)"
+    }
+]

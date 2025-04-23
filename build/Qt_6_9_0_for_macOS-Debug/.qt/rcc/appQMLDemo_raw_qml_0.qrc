@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="/QMLDemo/">
+    <file alias="Main.qml">/Users/liyu/Documents/Apple Development/QMLDemo/Main.qml</file>
+    <file alias="AppStore.qml">/Users/liyu/Documents/Apple Development/QMLDemo/AppStore.qml</file>
+    <file alias="DiscoverView.qml">/Users/liyu/Documents/Apple Development/QMLDemo/DiscoverView.qml</file>
+    <file alias="CreateView.qml">/Users/liyu/Documents/Apple Development/QMLDemo/CreateView.qml</file>
+    <file alias="WorkView.qml">/Users/liyu/Documents/Apple Development/QMLDemo/WorkView.qml</file>
+    <file alias="GameView.qml">/Users/liyu/Documents/Apple Development/QMLDemo/GameView.qml</file>
+    <file alias="DevelopView.qml">/Users/liyu/Documents/Apple Development/QMLDemo/DevelopView.qml</file>
+    <file alias="CategoryView.qml">/Users/liyu/Documents/Apple Development/QMLDemo/CategoryView.qml</file>
+    <file alias="UpdateView.qml">/Users/liyu/Documents/Apple Development/QMLDemo/UpdateView.qml</file>
+  </qresource>
+</RCC>
+

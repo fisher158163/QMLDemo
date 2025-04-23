@@ -1,0 +1,14 @@
+-rootPath
+/Users/liyu/Documents/Apple Development/QMLDemo
+-cmake-output
+-output-file
+/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.qt/qml_imports/appQMLDemo_conf.cmake
+-importPath
+/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/QMLDemo
+-importPath
+/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug
+-importPath
+/Users/liyu/Qt/6.9.0/macos/qml
+-qrcFiles
+/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.qt/rcc/qmake_QMLDemo.qrc
+/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.qt/rcc/appQMLDemo_raw_qml_0.qrc

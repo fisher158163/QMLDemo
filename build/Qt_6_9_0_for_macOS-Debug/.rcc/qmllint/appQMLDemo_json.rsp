@@ -1,0 +1,20 @@
+--bare
+-I
+/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug
+-I
+/Users/liyu/Qt/6.9.0/macos/qml
+--resource
+/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.qt/rcc/qmake_QMLDemo.qrc
+--resource
+/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.qt/rcc/appQMLDemo_raw_qml_0.qrc
+/Users/liyu/Documents/Apple Development/QMLDemo/Main.qml
+/Users/liyu/Documents/Apple Development/QMLDemo/AppStore.qml
+/Users/liyu/Documents/Apple Development/QMLDemo/DiscoverView.qml
+/Users/liyu/Documents/Apple Development/QMLDemo/CreateView.qml
+/Users/liyu/Documents/Apple Development/QMLDemo/WorkView.qml
+/Users/liyu/Documents/Apple Development/QMLDemo/GameView.qml
+/Users/liyu/Documents/Apple Development/QMLDemo/DevelopView.qml
+/Users/liyu/Documents/Apple Development/QMLDemo/CategoryView.qml
+/Users/liyu/Documents/Apple Development/QMLDemo/UpdateView.qml
+--json
+/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/appQMLDemo_qmllint.json

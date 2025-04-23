@@ -1,0 +1,13 @@
+--resource
+/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.qt/rcc/qmake_QMLDemo.qrc
+--resource
+/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.qt/rcc/appQMLDemo_raw_qml_0.qrc
+/QMLDemo/Main.qml
+/QMLDemo/AppStore.qml
+/QMLDemo/DiscoverView.qml
+/QMLDemo/CreateView.qml
+/QMLDemo/WorkView.qml
+/QMLDemo/GameView.qml
+/QMLDemo/DevelopView.qml
+/QMLDemo/CategoryView.qml
+/QMLDemo/UpdateView.qml

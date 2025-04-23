@@ -1,0 +1,10 @@
+-I
+/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug
+-I
+/Users/liyu/Qt/6.9.0/macos/qml
+--resource
+/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.qt/rcc/qmake_QMLDemo.qrc
+--resource
+/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.qt/rcc/appQMLDemo_raw_qml_0.qrc
+--module
+QMLDemo

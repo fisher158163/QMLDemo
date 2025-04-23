@@ -1,0 +1,20 @@
+[
+    {
+        "moduleFiles": [
+            {
+                "entries": [
+                    {
+                        "codegenSuccessfull": true,
+                        "column": 31,
+                        "durationMicroseconds": 77,
+                        "errorMessage": "",
+                        "functionName": "centerIn",
+                        "line": 14
+                    }
+                ],
+                "filepath": "/Users/liyu/Documents/Apple Development/QMLDemo/WorkView.qml"
+            }
+        ],
+        "moduleId": "QMLDemo(appQMLDemo)"
+    }
+]
