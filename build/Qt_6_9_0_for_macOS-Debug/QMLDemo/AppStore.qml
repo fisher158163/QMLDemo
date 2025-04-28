@@ -41,7 +41,7 @@ Window {
             anchors.bottom: parent.bottom
             anchors.left: parent.left
             width: 200
-            color: generateColor("2C2C2D")
+            color: generateColor("#2C2C2D")
 
             ListModel {
                 id: listModel
@@ -121,7 +121,7 @@ Window {
                         width: parent.width
                         height: 45
                         radius: 6
-                        color: generateColor("454646")
+                        color: generateColor("#454646")
                         y: list.currentItem.y
                         Behavior on y {
                             // 点击选中的时候会有个动画
@@ -208,13 +208,20 @@ Window {
     }
 
     // generateColor
-    function generateColor(hexString) {
-        var decimal = parseInt(hexString, 16)
-        var red = (decimal >> 16) & 255
-        var green = (decimal >> 8) & 255
-        var blue = decimal & 255
-        var color = Qt.rgba(red / 255, green / 255, blue / 255, 1)
-        return color
+    function generateColor(hexStr) {
+        // 去除可能的前缀#或0x
+        if (hexStr.startsWith("#")) {
+            hexStr = hexStr.slice(1);
+        } else if (hexStr.startsWith("0x")) {
+            hexStr = hexStr.slice(2);
+        }
+
+        var decimal = parseInt(hexStr, 16);
+        var red = (decimal >> 16) & 255;
+        var green = (decimal >> 8) & 255;
+        var blue = decimal & 255;
+        var color = Qt.rgba(red / 255, green / 255, blue / 255, 1);
+        return color;
     }
 
     // getComponents
