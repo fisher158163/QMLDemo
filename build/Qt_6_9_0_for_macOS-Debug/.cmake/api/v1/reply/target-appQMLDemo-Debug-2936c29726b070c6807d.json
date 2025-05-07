@@ -70,7 +70,7 @@
 			{
 				"command" : 3,
 				"file" : 1,
-				"line" : 10,
+				"line" : 16,
 				"parent" : 0
 			},
 			{
@@ -94,19 +94,19 @@
 			{
 				"command" : 4,
 				"file" : 1,
-				"line" : 45,
+				"line" : 51,
 				"parent" : 0
 			},
 			{
 				"command" : 5,
 				"file" : 1,
-				"line" : 41,
+				"line" : 47,
 				"parent" : 0
 			},
 			{
 				"command" : 8,
 				"file" : 1,
-				"line" : 8,
+				"line" : 14,
 				"parent" : 0
 			},
 			{
@@ -190,7 +190,7 @@
 			{
 				"command" : 12,
 				"file" : 1,
-				"line" : 18,
+				"line" : 24,
 				"parent" : 0
 			},
 			{
@@ -602,7 +602,7 @@
 			"compileCommandFragments" : 
 			[
 				{
-					"fragment" : "-DQT_QML_DEBUG -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -fcolor-diagnostics"
+					"fragment" : "-DQT_QML_DEBUG -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk -fcolor-diagnostics"
 				}
 			],
 			"defines" : 
@@ -831,11 +831,11 @@
 			"id" : "appQMLDemo_qmlimportscan::@6890427a1f51a3e7e1df"
 		},
 		{
-			"id" : "appQMLDemo_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
-		},
-		{
 			"backtrace" : 0,
 			"id" : "appQMLDemo_autogen::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "appQMLDemo_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
 		}
 	],
 	"id" : "appQMLDemo::@6890427a1f51a3e7e1df",

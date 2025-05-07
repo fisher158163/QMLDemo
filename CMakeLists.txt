@@ -5,6 +5,12 @@ project(QMLDemo VERSION 0.1 LANGUAGES CXX)
 set(CMAKE_AUTOMOC ON)
 set(CMAKE_CXX_STANDARD_REQUIRED ON)
 
+# 设置macOS SDK路径
+if(APPLE)
+    set(CMAKE_OSX_SYSROOT "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk")
+    set(CMAKE_OSX_DEPLOYMENT_TARGET "10.15" CACHE STRING "Minimum OS X deployment version")
+endif()
+
 find_package(Qt6 6.2 REQUIRED COMPONENTS Quick)
 
 qt_add_executable(appQMLDemo

@@ -1351,6 +1351,6 @@ QT_FEATURE_xrender:INTERNAL=OFF
 //Qt feature: zstd (from target Qt6::Core)
 QT_FEATURE_zstd:INTERNAL=OFF
 //CMAKE_INSTALL_PREFIX during last run
-_GNUInstallDirs_LAST_CMAKE_INSTALL_PREFIX:INTERNAL=/usr/local
+_GNUInstallDirs_LAST_CMAKE_INSTALL_PREFIX:INTERNAL=/tmp
 __qt_qml_macros_module_base_dir:INTERNAL=/Users/liyu/Qt/6.9.0/macos/lib/cmake/Qt6Qml
 

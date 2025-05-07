@@ -1,213 +1,106 @@
 # ninja log v6
-3	13	1745389330696692556	.qt/appQMLDemo_res.txt	3118f6e26b170b6c
-3	13	1745389330696692556	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.qt/appQMLDemo_res.txt	3118f6e26b170b6c
-3	13	1745389330697615895	.qt/appQMLDemo_qml.txt	e1c64532af25b4fd
-3	13	1745389330697615895	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.qt/appQMLDemo_qml.txt	e1c64532af25b4fd
-3	102	1745389330785921567	.qt/qml_imports/appQMLDemo_build.cmake	62bce5c0803103ef
-3	102	1745389330785921567	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.qt/qml_imports/appQMLDemo_build.cmake	62bce5c0803103ef
-102	140	1745389330817810972	appQMLDemo_autogen/timestamp	8444835d603ba854
-102	140	1745389330817810972	appQMLDemo_autogen/mocs_compilation.cpp	8444835d603ba854
-102	140	1745389330817810972	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/appQMLDemo_autogen/timestamp	8444835d603ba854
-102	140	1745389330817810972	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/appQMLDemo_autogen/mocs_compilation.cpp	8444835d603ba854
-141	291	1745389330975423198	.qt/rcc/qrc_qmake_QMLDemo.cpp	7a1667907c406f84
-141	291	1745389330975423198	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.qt/rcc/qrc_qmake_QMLDemo.cpp	7a1667907c406f84
-141	292	1745389330976057827	.qt/rcc/qrc_appQMLDemo_raw_qml_0.cpp	e4beb2ac463c3069
-141	292	1745389330976057827	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.qt/rcc/qrc_appQMLDemo_raw_qml_0.cpp	e4beb2ac463c3069
-141	649	1745389331332947077	meta_types/appQMLDemo_json_file_list.txt	430b78220105107f
-141	649	1745389331332947077	meta_types/appQMLDemo_json_file_list.txt.timestamp	430b78220105107f
-141	649	1745389331332947077	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/meta_types/appQMLDemo_json_file_list.txt	430b78220105107f
-141	649	1745389331332947077	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/meta_types/appQMLDemo_json_file_list.txt.timestamp	430b78220105107f
-649	666	1745389331350492769	meta_types/qt6appqmldemo_debug_metatypes.json.gen	349a3bbcd5f41bcf
-649	666	1745389331350492769	meta_types/qt6appqmldemo_debug_metatypes.json	349a3bbcd5f41bcf
-649	666	1745389331350492769	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/meta_types/qt6appqmldemo_debug_metatypes.json.gen	349a3bbcd5f41bcf
-649	666	1745389331350492769	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/meta_types/qt6appqmldemo_debug_metatypes.json	349a3bbcd5f41bcf
-141	928	1745389331611874260	.rcc/qmlcache/appQMLDemo_qmlcache_loader.cpp	de02af73f639c7bd
-141	928	1745389331611874260	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_qmlcache_loader.cpp	de02af73f639c7bd
-666	1246	1745389331915955059	appqmldemo_qmltyperegistrations.cpp	2b292a8a6f08c42d
-666	1246	1745389331915955059	QMLDemo/appQMLDemo.qmltypes	2b292a8a6f08c42d
-666	1246	1745389331915955059	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/appqmldemo_qmltyperegistrations.cpp	2b292a8a6f08c42d
-666	1246	1745389331915955059	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/QMLDemo/appQMLDemo.qmltypes	2b292a8a6f08c42d
-1246	1306	1745389331982781097	.rcc/qmlcache/appQMLDemo_DiscoverView_qml.cpp	ad9bba1a47911cd1
-1246	1306	1745389331982781097	.rcc/qmlcache/appQMLDemo_DiscoverView_qml.cpp.aotstats	ad9bba1a47911cd1
-1246	1306	1745389331982781097	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_DiscoverView_qml.cpp	ad9bba1a47911cd1
-1246	1306	1745389331982781097	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_DiscoverView_qml.cpp.aotstats	ad9bba1a47911cd1
-1246	1306	1745389331981525423	.rcc/qmlcache/appQMLDemo_GameView_qml.cpp	8cee12503f0987dd
-1246	1306	1745389331981525423	.rcc/qmlcache/appQMLDemo_GameView_qml.cpp.aotstats	8cee12503f0987dd
-1246	1306	1745389331981525423	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_GameView_qml.cpp	8cee12503f0987dd
-1246	1306	1745389331981525423	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_GameView_qml.cpp.aotstats	8cee12503f0987dd
-1246	1308	1745389331989752891	.rcc/qmlcache/appQMLDemo_CreateView_qml.cpp	1e6a54c00931d937
-1246	1308	1745389331989752891	.rcc/qmlcache/appQMLDemo_CreateView_qml.cpp.aotstats	1e6a54c00931d937
-1246	1308	1745389331989752891	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_CreateView_qml.cpp	1e6a54c00931d937
-1246	1308	1745389331989752891	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_CreateView_qml.cpp.aotstats	1e6a54c00931d937
-1247	1308	1745389331989459722	.rcc/qmlcache/appQMLDemo_DevelopView_qml.cpp	40b7be9b1eb64885
-1247	1308	1745389331989459722	.rcc/qmlcache/appQMLDemo_DevelopView_qml.cpp.aotstats	40b7be9b1eb64885
-1247	1308	1745389331989459722	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_DevelopView_qml.cpp	40b7be9b1eb64885
-1247	1308	1745389331989459722	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_DevelopView_qml.cpp.aotstats	40b7be9b1eb64885
-1247	1311	1745389331994029417	.rcc/qmlcache/appQMLDemo_CategoryView_qml.cpp	72256f1b2fcfab59
-1247	1311	1745389331994029417	.rcc/qmlcache/appQMLDemo_CategoryView_qml.cpp.aotstats	72256f1b2fcfab59
-1247	1311	1745389331994029417	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_CategoryView_qml.cpp	72256f1b2fcfab59
-1247	1311	1745389331994029417	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_CategoryView_qml.cpp.aotstats	72256f1b2fcfab59
-1246	1312	1745389331992651450	.rcc/qmlcache/appQMLDemo_Main_qml.cpp	f2398fbe9622af79
-1246	1312	1745389331992651450	.rcc/qmlcache/appQMLDemo_Main_qml.cpp.aotstats	f2398fbe9622af79
-1246	1312	1745389331992651450	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_Main_qml.cpp	f2398fbe9622af79
-1246	1312	1745389331992651450	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_Main_qml.cpp.aotstats	f2398fbe9622af79
-1246	1314	1745389331995870470	.rcc/qmlcache/appQMLDemo_AppStore_qml.cpp	147235bc1fd79399
-1246	1314	1745389331995870470	.rcc/qmlcache/appQMLDemo_AppStore_qml.cpp.aotstats	147235bc1fd79399
-1246	1314	1745389331995870470	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_AppStore_qml.cpp	147235bc1fd79399
-1246	1314	1745389331995870470	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_AppStore_qml.cpp.aotstats	147235bc1fd79399
-1248	1314	1745389331996826643	.rcc/qmlcache/appQMLDemo_UpdateView_qml.cpp	ba15ccea55a7a149
-1248	1314	1745389331996826643	.rcc/qmlcache/appQMLDemo_UpdateView_qml.cpp.aotstats	ba15ccea55a7a149
-1248	1314	1745389331996826643	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_UpdateView_qml.cpp	ba15ccea55a7a149
-1248	1314	1745389331996826643	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_UpdateView_qml.cpp.aotstats	ba15ccea55a7a149
-1246	1326	1745389332009695764	.rcc/qmlcache/appQMLDemo_WorkView_qml.cpp	7a16d24c27539fed
-1246	1326	1745389332009695764	.rcc/qmlcache/appQMLDemo_WorkView_qml.cpp.aotstats	7a16d24c27539fed
-1246	1326	1745389332009695764	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_WorkView_qml.cpp	7a16d24c27539fed
-1246	1326	1745389332009695764	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_WorkView_qml.cpp.aotstats	7a16d24c27539fed
-1326	1358	1745389332011402608	CMakeFiles/appQMLDemo.dir/appQMLDemo_autogen/mocs_compilation.cpp.o	6082eec7df2602d7
-1327	1368	1745389332011827277	CMakeFiles/appQMLDemo.dir/build/Qt_6_9_0_for_macOS-Debug/.qt/rcc/qrc_qmake_QMLDemo.cpp.o	7fa3d08a19a5715e
-1327	2415	1745389332011628318	CMakeFiles/appQMLDemo.dir/main.cpp.o	eca7ea604733bd04
-1327	2563	1745389332011731776	CMakeFiles/appQMLDemo.dir/appqmldemo_qmltyperegistrations.cpp.o	ff9e266d2f368024
-1368	2594	1745389332053007824	CMakeFiles/appQMLDemo.dir/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_DevelopView_qml.cpp.o	f58d286424775f4
-2594	2625	1745389333279100619	CMakeFiles/appQMLDemo.dir/build/Qt_6_9_0_for_macOS-Debug/.qt/rcc/qrc_appQMLDemo_raw_qml_0.cpp.o	df5b7fcfb01c8bd9
-1329	2633	1745389332014127250	CMakeFiles/appQMLDemo.dir/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_WorkView_qml.cpp.o	aa44e771bc7cef32
-1327	2638	1745389332012086279	CMakeFiles/appQMLDemo.dir/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_Main_qml.cpp.o	98dd98e108fd0df5
-1329	2651	1745389332014024249	CMakeFiles/appQMLDemo.dir/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_CreateView_qml.cpp.o	8cd0c2159e97e844
-1358	2656	1745389332042774010	CMakeFiles/appQMLDemo.dir/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_GameView_qml.cpp.o	85074a619b15ec5b
-1329	2685	1745389332013683705	CMakeFiles/appQMLDemo.dir/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_DiscoverView_qml.cpp.o	6b00723df0bdbef4
-1327	2689	1745389332012185863	CMakeFiles/appQMLDemo.dir/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_AppStore_qml.cpp.o	e5d04dfa7d7e94de
-1327	2748	1745389332011989528	CMakeFiles/appQMLDemo.dir/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_qmlcache_loader.cpp.o	6020d1b3666d27f2
-2418	3087	1745389333102856361	CMakeFiles/appQMLDemo.dir/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_CategoryView_qml.cpp.o	4748b29c064ed036
-2563	3194	1745389333248212636	CMakeFiles/appQMLDemo.dir/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_UpdateView_qml.cpp.o	9c6e9b5b2199ba31
-3194	3286	1745389333878966038	appQMLDemo.app/Contents/MacOS/appQMLDemo	a0d68400fb98ec5f
-9	24	1745389449667950000	.qt/appQMLDemo_qml.txt	e1c64532af25b4fd
-9	24	1745389449667950000	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.qt/appQMLDemo_qml.txt	e1c64532af25b4fd
-10	149	1745389449790804385	.qt/qml_imports/appQMLDemo_build.cmake	62bce5c0803103ef
-10	149	1745389449790804385	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.qt/qml_imports/appQMLDemo_build.cmake	62bce5c0803103ef
-150	160	1745389449804917570	.qt/rcc/qrc_appQMLDemo_raw_qml_0.cpp	e4beb2ac463c3069
-150	160	1745389449804917570	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.qt/rcc/qrc_appQMLDemo_raw_qml_0.cpp	e4beb2ac463c3069
-149	189	1745389449832234588	.rcc/qmlcache/appQMLDemo_Main_qml.cpp	f2398fbe9622af79
-149	189	1745389449832234588	.rcc/qmlcache/appQMLDemo_Main_qml.cpp.aotstats	f2398fbe9622af79
-149	189	1745389449832234588	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_Main_qml.cpp	f2398fbe9622af79
-149	189	1745389449832234588	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_Main_qml.cpp.aotstats	f2398fbe9622af79
-190	214	1745389449834833837	CMakeFiles/appQMLDemo.dir/build/Qt_6_9_0_for_macOS-Debug/.qt/rcc/qrc_appQMLDemo_raw_qml_0.cpp.o	df5b7fcfb01c8bd9
-189	876	1745389449834666015	CMakeFiles/appQMLDemo.dir/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_Main_qml.cpp.o	98dd98e108fd0df5
-876	957	1745389450521541244	appQMLDemo.app/Contents/MacOS/appQMLDemo	a0d68400fb98ec5f
-36	52	1745389842216899000	.qt/appQMLDemo_qml.txt	e1c64532af25b4fd
-36	52	1745389842216899000	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.qt/appQMLDemo_qml.txt	e1c64532af25b4fd
-37	196	1745389842360239034	.qt/qml_imports/appQMLDemo_build.cmake	62bce5c0803103ef
-37	196	1745389842360239034	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.qt/qml_imports/appQMLDemo_build.cmake	62bce5c0803103ef
-197	208	1745389842372401589	.qt/rcc/qrc_appQMLDemo_raw_qml_0.cpp	e4beb2ac463c3069
-197	208	1745389842372401589	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.qt/rcc/qrc_appQMLDemo_raw_qml_0.cpp	e4beb2ac463c3069
-196	236	1745389842398959633	.rcc/qmlcache/appQMLDemo_Main_qml.cpp	f2398fbe9622af79
-196	236	1745389842398959633	.rcc/qmlcache/appQMLDemo_Main_qml.cpp.aotstats	f2398fbe9622af79
-196	236	1745389842398959633	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_Main_qml.cpp	f2398fbe9622af79
-196	236	1745389842398959633	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_Main_qml.cpp.aotstats	f2398fbe9622af79
-236	390	1745389842401365152	CMakeFiles/appQMLDemo.dir/build/Qt_6_9_0_for_macOS-Debug/.qt/rcc/qrc_appQMLDemo_raw_qml_0.cpp.o	df5b7fcfb01c8bd9
-236	1156	1745389842401177734	CMakeFiles/appQMLDemo.dir/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_Main_qml.cpp.o	98dd98e108fd0df5
-1156	1310	1745389843321094372	appQMLDemo.app/Contents/MacOS/appQMLDemo	a0d68400fb98ec5f
-13	29	1745389947031783000	.qt/appQMLDemo_qml.txt	e1c64532af25b4fd
-13	29	1745389947031783000	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.qt/appQMLDemo_qml.txt	e1c64532af25b4fd
-14	157	1745389947159650794	.qt/qml_imports/appQMLDemo_build.cmake	62bce5c0803103ef
-14	157	1745389947159650794	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.qt/qml_imports/appQMLDemo_build.cmake	62bce5c0803103ef
-157	169	1745389947172099226	.qt/rcc/qrc_appQMLDemo_raw_qml_0.cpp	e4beb2ac463c3069
-157	169	1745389947172099226	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.qt/rcc/qrc_appQMLDemo_raw_qml_0.cpp	e4beb2ac463c3069
-157	183	1745389947186073420	.rcc/qmlcache/appQMLDemo_Main_qml.cpp	f2398fbe9622af79
-157	183	1745389947186073420	.rcc/qmlcache/appQMLDemo_Main_qml.cpp.aotstats	f2398fbe9622af79
-157	183	1745389947186073420	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_Main_qml.cpp	f2398fbe9622af79
-157	183	1745389947186073420	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_Main_qml.cpp.aotstats	f2398fbe9622af79
-183	207	1745389947187178637	CMakeFiles/appQMLDemo.dir/build/Qt_6_9_0_for_macOS-Debug/.qt/rcc/qrc_appQMLDemo_raw_qml_0.cpp.o	df5b7fcfb01c8bd9
-183	869	1745389947187002636	CMakeFiles/appQMLDemo.dir/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_Main_qml.cpp.o	98dd98e108fd0df5
-869	949	1745389947872565955	appQMLDemo.app/Contents/MacOS/appQMLDemo	a0d68400fb98ec5f
-10	25	1745390176623323000	.qt/appQMLDemo_qml.txt	e1c64532af25b4fd
-10	25	1745390176623323000	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.qt/appQMLDemo_qml.txt	e1c64532af25b4fd
-11	158	1745390176753389491	.qt/qml_imports/appQMLDemo_build.cmake	62bce5c0803103ef
-11	158	1745390176753389491	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.qt/qml_imports/appQMLDemo_build.cmake	62bce5c0803103ef
-159	170	1745390176768158650	.qt/rcc/qrc_appQMLDemo_raw_qml_0.cpp	e4beb2ac463c3069
-159	170	1745390176768158650	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.qt/rcc/qrc_appQMLDemo_raw_qml_0.cpp	e4beb2ac463c3069
-158	200	1745390176796279665	.rcc/qmlcache/appQMLDemo_Main_qml.cpp	f2398fbe9622af79
-158	200	1745390176796279665	.rcc/qmlcache/appQMLDemo_Main_qml.cpp.aotstats	f2398fbe9622af79
-158	200	1745390176796279665	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_Main_qml.cpp	f2398fbe9622af79
-158	200	1745390176796279665	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_Main_qml.cpp.aotstats	f2398fbe9622af79
-158	204	1745390176800512990	.rcc/qmlcache/appQMLDemo_AppStore_qml.cpp	147235bc1fd79399
-158	204	1745390176800512990	.rcc/qmlcache/appQMLDemo_AppStore_qml.cpp.aotstats	147235bc1fd79399
-158	204	1745390176800512990	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_AppStore_qml.cpp	147235bc1fd79399
-158	204	1745390176800512990	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_AppStore_qml.cpp.aotstats	147235bc1fd79399
-204	230	1745390176803107886	CMakeFiles/appQMLDemo.dir/build/Qt_6_9_0_for_macOS-Debug/.qt/rcc/qrc_appQMLDemo_raw_qml_0.cpp.o	df5b7fcfb01c8bd9
-204	958	1745390176803003051	CMakeFiles/appQMLDemo.dir/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_AppStore_qml.cpp.o	e5d04dfa7d7e94de
-204	959	1745390176802808883	CMakeFiles/appQMLDemo.dir/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_Main_qml.cpp.o	98dd98e108fd0df5
-959	1037	1745390177557601918	appQMLDemo.app/Contents/MacOS/appQMLDemo	a0d68400fb98ec5f
-7	19	1745390202526726000	.qt/appQMLDemo_qml.txt	e1c64532af25b4fd
-7	19	1745390202526726000	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.qt/appQMLDemo_qml.txt	e1c64532af25b4fd
-8	113	1745390202619752989	.qt/qml_imports/appQMLDemo_build.cmake	62bce5c0803103ef
-8	113	1745390202619752989	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.qt/qml_imports/appQMLDemo_build.cmake	62bce5c0803103ef
-113	124	1745390202631528082	.qt/rcc/qrc_appQMLDemo_raw_qml_0.cpp	e4beb2ac463c3069
-113	124	1745390202631528082	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.qt/rcc/qrc_appQMLDemo_raw_qml_0.cpp	e4beb2ac463c3069
-113	154	1745390202659524346	.rcc/qmlcache/appQMLDemo_AppStore_qml.cpp	147235bc1fd79399
-113	154	1745390202659524346	.rcc/qmlcache/appQMLDemo_AppStore_qml.cpp.aotstats	147235bc1fd79399
-113	154	1745390202659524346	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_AppStore_qml.cpp	147235bc1fd79399
-113	154	1745390202659524346	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_AppStore_qml.cpp.aotstats	147235bc1fd79399
-154	175	1745390202662395869	CMakeFiles/appQMLDemo.dir/build/Qt_6_9_0_for_macOS-Debug/.qt/rcc/qrc_appQMLDemo_raw_qml_0.cpp.o	df5b7fcfb01c8bd9
-154	731	1745390202662186409	CMakeFiles/appQMLDemo.dir/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_AppStore_qml.cpp.o	e5d04dfa7d7e94de
-731	814	1745390203239039156	appQMLDemo.app/Contents/MacOS/appQMLDemo	a0d68400fb98ec5f
-9	24	1745390261750377000	.qt/appQMLDemo_qml.txt	e1c64532af25b4fd
-9	24	1745390261750377000	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.qt/appQMLDemo_qml.txt	e1c64532af25b4fd
-10	151	1745390261877671984	.qt/qml_imports/appQMLDemo_build.cmake	62bce5c0803103ef
-10	151	1745390261877671984	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.qt/qml_imports/appQMLDemo_build.cmake	62bce5c0803103ef
-152	162	1745390261889323160	.qt/rcc/qrc_appQMLDemo_raw_qml_0.cpp	e4beb2ac463c3069
-152	162	1745390261889323160	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.qt/rcc/qrc_appQMLDemo_raw_qml_0.cpp	e4beb2ac463c3069
-151	195	1745390261920870868	.rcc/qmlcache/appQMLDemo_AppStore_qml.cpp	147235bc1fd79399
-151	195	1745390261920870868	.rcc/qmlcache/appQMLDemo_AppStore_qml.cpp.aotstats	147235bc1fd79399
-151	195	1745390261920870868	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_AppStore_qml.cpp	147235bc1fd79399
-151	195	1745390261920870868	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_AppStore_qml.cpp.aotstats	147235bc1fd79399
-196	220	1745390261922934927	CMakeFiles/appQMLDemo.dir/build/Qt_6_9_0_for_macOS-Debug/.qt/rcc/qrc_appQMLDemo_raw_qml_0.cpp.o	df5b7fcfb01c8bd9
-195	887	1745390261922752300	CMakeFiles/appQMLDemo.dir/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_AppStore_qml.cpp.o	e5d04dfa7d7e94de
-887	964	1745390262614044830	appQMLDemo.app/Contents/MacOS/appQMLDemo	a0d68400fb98ec5f
-8	21	1745390282776631000	.qt/appQMLDemo_qml.txt	e1c64532af25b4fd
-8	21	1745390282776631000	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.qt/appQMLDemo_qml.txt	e1c64532af25b4fd
-9	113	1745390282868664731	.qt/qml_imports/appQMLDemo_build.cmake	62bce5c0803103ef
-9	113	1745390282868664731	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.qt/qml_imports/appQMLDemo_build.cmake	62bce5c0803103ef
-114	124	1745390282880020821	.qt/rcc/qrc_appQMLDemo_raw_qml_0.cpp	e4beb2ac463c3069
-114	124	1745390282880020821	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.qt/rcc/qrc_appQMLDemo_raw_qml_0.cpp	e4beb2ac463c3069
-113	151	1745390282906076820	.rcc/qmlcache/appQMLDemo_AppStore_qml.cpp	147235bc1fd79399
-113	151	1745390282906076820	.rcc/qmlcache/appQMLDemo_AppStore_qml.cpp.aotstats	147235bc1fd79399
-113	151	1745390282906076820	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_AppStore_qml.cpp	147235bc1fd79399
-113	151	1745390282906076820	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_AppStore_qml.cpp.aotstats	147235bc1fd79399
-152	172	1745390282908172545	CMakeFiles/appQMLDemo.dir/build/Qt_6_9_0_for_macOS-Debug/.qt/rcc/qrc_appQMLDemo_raw_qml_0.cpp.o	df5b7fcfb01c8bd9
-151	742	1745390282907985377	CMakeFiles/appQMLDemo.dir/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_AppStore_qml.cpp.o	e5d04dfa7d7e94de
-742	821	1745390283498697608	appQMLDemo.app/Contents/MacOS/appQMLDemo	a0d68400fb98ec5f
-16	39	1745391795256736411	appQMLDemo_autogen/timestamp	8444835d603ba854
-16	39	1745391795256736411	appQMLDemo_autogen/mocs_compilation.cpp	8444835d603ba854
-16	39	1745391795256736411	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/appQMLDemo_autogen/timestamp	8444835d603ba854
-16	39	1745391795256736411	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/appQMLDemo_autogen/mocs_compilation.cpp	8444835d603ba854
-39	49	1745391795280479205	meta_types/appQMLDemo_json_file_list.txt	430b78220105107f
-39	49	1745391795280479205	meta_types/appQMLDemo_json_file_list.txt.timestamp	430b78220105107f
-39	49	1745391795280479205	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/meta_types/appQMLDemo_json_file_list.txt	430b78220105107f
-39	49	1745391795280479205	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/meta_types/appQMLDemo_json_file_list.txt.timestamp	430b78220105107f
-49	949	1745391795290694272	CMakeFiles/appQMLDemo.dir/main.cpp.o	eca7ea604733bd04
-949	1125	1745391796189977305	appQMLDemo.app/Contents/MacOS/appQMLDemo	a0d68400fb98ec5f
-10	21	1745821127079398000	.qt/appQMLDemo_qml.txt	e1c64532af25b4fd
-10	21	1745821127079398000	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.qt/appQMLDemo_qml.txt	e1c64532af25b4fd
-10	177	1745821127234567849	.qt/qml_imports/appQMLDemo_build.cmake	62bce5c0803103ef
-10	177	1745821127234567849	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.qt/qml_imports/appQMLDemo_build.cmake	62bce5c0803103ef
-177	189	1745821127247083945	.qt/rcc/qrc_appQMLDemo_raw_qml_0.cpp	e4beb2ac463c3069
-177	189	1745821127247083945	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.qt/rcc/qrc_appQMLDemo_raw_qml_0.cpp	e4beb2ac463c3069
-177	222	1745821127278429080	.rcc/qmlcache/appQMLDemo_AppStore_qml.cpp	147235bc1fd79399
-177	222	1745821127278429080	.rcc/qmlcache/appQMLDemo_AppStore_qml.cpp.aotstats	147235bc1fd79399
-177	222	1745821127278429080	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_AppStore_qml.cpp	147235bc1fd79399
-177	222	1745821127278429080	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_AppStore_qml.cpp.aotstats	147235bc1fd79399
-222	244	1745821127280640063	CMakeFiles/appQMLDemo.dir/build/Qt_6_9_0_for_macOS-Debug/.qt/rcc/qrc_appQMLDemo_raw_qml_0.cpp.o	df5b7fcfb01c8bd9
-222	822	1745821127280459769	CMakeFiles/appQMLDemo.dir/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_AppStore_qml.cpp.o	e5d04dfa7d7e94de
-822	900	1745821127880496344	appQMLDemo.app/Contents/MacOS/appQMLDemo	a0d68400fb98ec5f
-7	19	1745821218230364000	.qt/appQMLDemo_qml.txt	e1c64532af25b4fd
-7	19	1745821218230364000	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.qt/appQMLDemo_qml.txt	e1c64532af25b4fd
-8	177	1745821218387032799	.qt/qml_imports/appQMLDemo_build.cmake	62bce5c0803103ef
-8	177	1745821218387032799	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.qt/qml_imports/appQMLDemo_build.cmake	62bce5c0803103ef
-177	187	1745821218398571134	.qt/rcc/qrc_appQMLDemo_raw_qml_0.cpp	e4beb2ac463c3069
-177	187	1745821218398571134	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.qt/rcc/qrc_appQMLDemo_raw_qml_0.cpp	e4beb2ac463c3069
-177	215	1745821218424626420	.rcc/qmlcache/appQMLDemo_AppStore_qml.cpp	147235bc1fd79399
-177	215	1745821218424626420	.rcc/qmlcache/appQMLDemo_AppStore_qml.cpp.aotstats	147235bc1fd79399
-177	215	1745821218424626420	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_AppStore_qml.cpp	147235bc1fd79399
-177	215	1745821218424626420	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_AppStore_qml.cpp.aotstats	147235bc1fd79399
-215	239	1745821218426826694	CMakeFiles/appQMLDemo.dir/build/Qt_6_9_0_for_macOS-Debug/.qt/rcc/qrc_appQMLDemo_raw_qml_0.cpp.o	df5b7fcfb01c8bd9
-215	819	1745821218426649817	CMakeFiles/appQMLDemo.dir/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_AppStore_qml.cpp.o	e5d04dfa7d7e94de
 819	895	1745821219030364599	appQMLDemo.app/Contents/MacOS/appQMLDemo	a0d68400fb98ec5f
+2563	3194	1745389333248212636	CMakeFiles/appQMLDemo.dir/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_UpdateView_qml.cpp.o	9c6e9b5b2199ba31
+1327	2748	1745389332011989528	CMakeFiles/appQMLDemo.dir/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_qmlcache_loader.cpp.o	6020d1b3666d27f2
+1329	2685	1745389332013683705	CMakeFiles/appQMLDemo.dir/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_DiscoverView_qml.cpp.o	6b00723df0bdbef4
+204	959	1745390176802808883	CMakeFiles/appQMLDemo.dir/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_Main_qml.cpp.o	98dd98e108fd0df5
+1329	2633	1745389332014127250	CMakeFiles/appQMLDemo.dir/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_WorkView_qml.cpp.o	aa44e771bc7cef32
+215	239	1745821218426826694	CMakeFiles/appQMLDemo.dir/build/Qt_6_9_0_for_macOS-Debug/.qt/rcc/qrc_appQMLDemo_raw_qml_0.cpp.o	df5b7fcfb01c8bd9
+1368	2594	1745389332053007824	CMakeFiles/appQMLDemo.dir/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_DevelopView_qml.cpp.o	f58d286424775f4
+1327	2563	1745389332011731776	CMakeFiles/appQMLDemo.dir/appqmldemo_qmltyperegistrations.cpp.o	ff9e266d2f368024
+1327	1368	1745389332011827277	CMakeFiles/appQMLDemo.dir/build/Qt_6_9_0_for_macOS-Debug/.qt/rcc/qrc_qmake_QMLDemo.cpp.o	7fa3d08a19a5715e
+1326	1358	1745389332011402608	CMakeFiles/appQMLDemo.dir/appQMLDemo_autogen/mocs_compilation.cpp.o	6082eec7df2602d7
+1246	1326	1745389332009695764	.rcc/qmlcache/appQMLDemo_WorkView_qml.cpp	7a16d24c27539fed
+1248	1314	1745389331996826643	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_UpdateView_qml.cpp.aotstats	ba15ccea55a7a149
+1248	1314	1745389331996826643	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_UpdateView_qml.cpp	ba15ccea55a7a149
+1248	1314	1745389331996826643	.rcc/qmlcache/appQMLDemo_UpdateView_qml.cpp	ba15ccea55a7a149
+177	215	1745821218424626420	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_AppStore_qml.cpp.aotstats	147235bc1fd79399
+158	200	1745390176796279665	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_Main_qml.cpp.aotstats	f2398fbe9622af79
+158	200	1745390176796279665	.rcc/qmlcache/appQMLDemo_Main_qml.cpp.aotstats	f2398fbe9622af79
+1247	1311	1745389331994029417	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_CategoryView_qml.cpp.aotstats	72256f1b2fcfab59
+1247	1311	1745389331994029417	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_CategoryView_qml.cpp	72256f1b2fcfab59
+1247	1308	1745389331989459722	.rcc/qmlcache/appQMLDemo_DevelopView_qml.cpp	40b7be9b1eb64885
+649	666	1745389331350492769	meta_types/qt6appqmldemo_debug_metatypes.json.gen	349a3bbcd5f41bcf
+1246	1308	1745389331989752891	.rcc/qmlcache/appQMLDemo_CreateView_qml.cpp.aotstats	1e6a54c00931d937
+1246	1308	1745389331989752891	.rcc/qmlcache/appQMLDemo_CreateView_qml.cpp	1e6a54c00931d937
+2418	3087	1745389333102856361	CMakeFiles/appQMLDemo.dir/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_CategoryView_qml.cpp.o	4748b29c064ed036
+1246	1306	1745389331981525423	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_GameView_qml.cpp.aotstats	8cee12503f0987dd
+215	819	1745821218426649817	CMakeFiles/appQMLDemo.dir/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_AppStore_qml.cpp.o	e5d04dfa7d7e94de
+1246	1306	1745389331981525423	.rcc/qmlcache/appQMLDemo_GameView_qml.cpp	8cee12503f0987dd
+1248	1314	1745389331996826643	.rcc/qmlcache/appQMLDemo_UpdateView_qml.cpp.aotstats	ba15ccea55a7a149
+1246	1306	1745389331982781097	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_DiscoverView_qml.cpp	ad9bba1a47911cd1
+1247	1311	1745389331994029417	.rcc/qmlcache/appQMLDemo_CategoryView_qml.cpp.aotstats	72256f1b2fcfab59
+1246	1306	1745389331981525423	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_GameView_qml.cpp	8cee12503f0987dd
+158	200	1745390176796279665	.rcc/qmlcache/appQMLDemo_Main_qml.cpp	f2398fbe9622af79
+666	1246	1745389331915955059	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/appqmldemo_qmltyperegistrations.cpp	2b292a8a6f08c42d
+1246	1326	1745389332009695764	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_WorkView_qml.cpp	7a16d24c27539fed
+666	1246	1745389331915955059	QMLDemo/appQMLDemo.qmltypes	2b292a8a6f08c42d
+666	1246	1745389331915955059	appqmldemo_qmltyperegistrations.cpp	2b292a8a6f08c42d
+141	928	1745389331611874260	.rcc/qmlcache/appQMLDemo_qmlcache_loader.cpp	de02af73f639c7bd
+1247	1308	1745389331989459722	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_DevelopView_qml.cpp.aotstats	40b7be9b1eb64885
+16	39	1745391795256736411	appQMLDemo_autogen/timestamp	8444835d603ba854
+141	928	1745389331611874260	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_qmlcache_loader.cpp	de02af73f639c7bd
+1246	1326	1745389332009695764	.rcc/qmlcache/appQMLDemo_WorkView_qml.cpp.aotstats	7a16d24c27539fed
+649	666	1745389331350492769	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/meta_types/qt6appqmldemo_debug_metatypes.json.gen	349a3bbcd5f41bcf
+3	13	1745389330696692556	.qt/appQMLDemo_res.txt	3118f6e26b170b6c
+649	666	1745389331350492769	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/meta_types/qt6appqmldemo_debug_metatypes.json	349a3bbcd5f41bcf
+649	666	1745389331350492769	meta_types/qt6appqmldemo_debug_metatypes.json	349a3bbcd5f41bcf
+1246	1306	1745389331981525423	.rcc/qmlcache/appQMLDemo_GameView_qml.cpp.aotstats	8cee12503f0987dd
+177	215	1745821218424626420	.rcc/qmlcache/appQMLDemo_AppStore_qml.cpp.aotstats	147235bc1fd79399
+177	215	1745821218424626420	.rcc/qmlcache/appQMLDemo_AppStore_qml.cpp	147235bc1fd79399
+16	39	1745391795256736411	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/appQMLDemo_autogen/timestamp	8444835d603ba854
+177	187	1745821218398571134	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.qt/rcc/qrc_appQMLDemo_raw_qml_0.cpp	e4beb2ac463c3069
+1358	2656	1745389332042774010	CMakeFiles/appQMLDemo.dir/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_GameView_qml.cpp.o	85074a619b15ec5b
+158	200	1745390176796279665	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_Main_qml.cpp	f2398fbe9622af79
+666	1246	1745389331915955059	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/QMLDemo/appQMLDemo.qmltypes	2b292a8a6f08c42d
+1329	2651	1745389332014024249	CMakeFiles/appQMLDemo.dir/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_CreateView_qml.cpp.o	8cd0c2159e97e844
+39	49	1745391795280479205	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/meta_types/appQMLDemo_json_file_list.txt.timestamp	430b78220105107f
+1246	1306	1745389331982781097	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_DiscoverView_qml.cpp.aotstats	ad9bba1a47911cd1
+1246	1306	1745389331982781097	.rcc/qmlcache/appQMLDemo_DiscoverView_qml.cpp	ad9bba1a47911cd1
+16	39	1745391795256736411	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/appQMLDemo_autogen/mocs_compilation.cpp	8444835d603ba854
+49	949	1745391795290694272	CMakeFiles/appQMLDemo.dir/main.cpp.o	eca7ea604733bd04
+177	215	1745821218424626420	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_AppStore_qml.cpp	147235bc1fd79399
+39	49	1745391795280479205	meta_types/appQMLDemo_json_file_list.txt	430b78220105107f
+141	291	1745389330975423198	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.qt/rcc/qrc_qmake_QMLDemo.cpp	7a1667907c406f84
+177	187	1745821218398571134	.qt/rcc/qrc_appQMLDemo_raw_qml_0.cpp	e4beb2ac463c3069
+8	177	1745821218387032799	.qt/qml_imports/appQMLDemo_build.cmake	62bce5c0803103ef
+1247	1308	1745389331989459722	.rcc/qmlcache/appQMLDemo_DevelopView_qml.cpp.aotstats	40b7be9b1eb64885
+7	19	1745821218230364000	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.qt/appQMLDemo_qml.txt	e1c64532af25b4fd
+1246	1306	1745389331982781097	.rcc/qmlcache/appQMLDemo_DiscoverView_qml.cpp.aotstats	ad9bba1a47911cd1
+141	291	1745389330975423198	.qt/rcc/qrc_qmake_QMLDemo.cpp	7a1667907c406f84
+8	177	1745821218387032799	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.qt/qml_imports/appQMLDemo_build.cmake	62bce5c0803103ef
+7	19	1745821218230364000	.qt/appQMLDemo_qml.txt	e1c64532af25b4fd
+1246	1308	1745389331989752891	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_CreateView_qml.cpp.aotstats	1e6a54c00931d937
+39	49	1745391795280479205	meta_types/appQMLDemo_json_file_list.txt.timestamp	430b78220105107f
+16	39	1745391795256736411	appQMLDemo_autogen/mocs_compilation.cpp	8444835d603ba854
+1247	1311	1745389331994029417	.rcc/qmlcache/appQMLDemo_CategoryView_qml.cpp	72256f1b2fcfab59
+1247	1308	1745389331989459722	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_DevelopView_qml.cpp	40b7be9b1eb64885
+1246	1326	1745389332009695764	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_WorkView_qml.cpp.aotstats	7a16d24c27539fed
+1246	1308	1745389331989752891	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_CreateView_qml.cpp	1e6a54c00931d937
+39	49	1745391795280479205	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/meta_types/appQMLDemo_json_file_list.txt	430b78220105107f
+3	13	1745389330696692556	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/.qt/appQMLDemo_res.txt	3118f6e26b170b6c
+5	360	1746606646853435337	build.ninja	578ab44cca3188d1
+3	23	1746606646870632614	appQMLDemo_autogen/timestamp	8444835d603ba854
+3	23	1746606646870632614	appQMLDemo_autogen/mocs_compilation.cpp	8444835d603ba854
+3	23	1746606646870632614	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/appQMLDemo_autogen/timestamp	8444835d603ba854
+3	23	1746606646870632614	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/appQMLDemo_autogen/mocs_compilation.cpp	8444835d603ba854
+23	30	1746606646890094103	meta_types/appQMLDemo_json_file_list.txt	430b78220105107f
+23	30	1746606646890094103	meta_types/appQMLDemo_json_file_list.txt.timestamp	430b78220105107f
+23	30	1746606646890094103	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/meta_types/appQMLDemo_json_file_list.txt	430b78220105107f
+23	30	1746606646890094103	/Users/liyu/Documents/Apple Development/QMLDemo/build/Qt_6_9_0_for_macOS-Debug/meta_types/appQMLDemo_json_file_list.txt.timestamp	430b78220105107f
+30	49	1746606646897283864	CMakeFiles/appQMLDemo.dir/appQMLDemo_autogen/mocs_compilation.cpp.o	815b72b34002e32b
+30	68	1746606646897562989	CMakeFiles/appQMLDemo.dir/build/Qt_6_9_0_for_macOS-Debug/.qt/rcc/qrc_qmake_QMLDemo.cpp.o	54632179c0b1596e
+30	1106	1746606646897480072	CMakeFiles/appQMLDemo.dir/appqmldemo_qmltyperegistrations.cpp.o	7c5cd8a11fff5f5c
+32	1194	1746606646898999075	CMakeFiles/appQMLDemo.dir/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_CreateView_qml.cpp.o	39eda11cc70d45ae
+31	1233	1746606646898638658	CMakeFiles/appQMLDemo.dir/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_DiscoverView_qml.cpp.o	823fc0c317a6c397
+32	1238	1746606646899128034	CMakeFiles/appQMLDemo.dir/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_WorkView_qml.cpp.o	c91a0a3ec02375b4
+49	1239	1746606646916008310	CMakeFiles/appQMLDemo.dir/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_GameView_qml.cpp.o	59a829173fcdb0da
+68	1240	1746606646935062215	CMakeFiles/appQMLDemo.dir/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_DevelopView_qml.cpp.o	729fb16b1214c6b
+31	1247	1746606646898176240	CMakeFiles/appQMLDemo.dir/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_AppStore_qml.cpp.o	aed3cc8f058b1862
+1233	1255	1746606648100096548	CMakeFiles/appQMLDemo.dir/build/Qt_6_9_0_for_macOS-Debug/.qt/rcc/qrc_appQMLDemo_raw_qml_0.cpp.o	2f4b9acfb040c2ab
+30	1299	1746606646897811240	CMakeFiles/appQMLDemo.dir/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_Main_qml.cpp.o	5ae7d55c99aea81c
+30	1306	1746606646897396156	CMakeFiles/appQMLDemo.dir/main.cpp.o	68b082bef44882ff
+30	1314	1746606646897644239	CMakeFiles/appQMLDemo.dir/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_qmlcache_loader.cpp.o	b25c52ff5c7f4fe4
+1108	1782	1746606647975373977	CMakeFiles/appQMLDemo.dir/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_CategoryView_qml.cpp.o	67d68c2e947b9505
+1194	1848	1746606648061194904	CMakeFiles/appQMLDemo.dir/build/Qt_6_9_0_for_macOS-Debug/.rcc/qmlcache/appQMLDemo_UpdateView_qml.cpp.o	c3b1c41a1fa1e51d
+1848	1938	1746606648715115516	appQMLDemo.app/Contents/MacOS/appQMLDemo	20f4b55b0ffbd44

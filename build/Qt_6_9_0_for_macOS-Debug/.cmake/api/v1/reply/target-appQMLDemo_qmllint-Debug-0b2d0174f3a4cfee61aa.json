@@ -23,7 +23,7 @@
 			{
 				"command" : 4,
 				"file" : 1,
-				"line" : 18,
+				"line" : 24,
 				"parent" : 0
 			},
 			{
@@ -47,7 +47,7 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 1537,
+				"line" : 1472,
 				"parent" : 4
 			}
 		]
@@ -62,8 +62,8 @@
 	{
 		"name" : "/QmlLinter"
 	},
-	"id" : "appQMLDemo_qmllint_module::@6890427a1f51a3e7e1df",
-	"name" : "appQMLDemo_qmllint_module",
+	"id" : "appQMLDemo_qmllint::@6890427a1f51a3e7e1df",
+	"name" : "appQMLDemo_qmllint",
 	"paths" : 
 	{
 		"build" : ".",
@@ -91,13 +91,13 @@
 		{
 			"backtrace" : 5,
 			"isGenerated" : true,
-			"path" : "build/Qt_6_9_0_for_macOS-Debug/CMakeFiles/appQMLDemo_qmllint_module",
+			"path" : "build/Qt_6_9_0_for_macOS-Debug/CMakeFiles/appQMLDemo_qmllint",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 0,
 			"isGenerated" : true,
-			"path" : "build/Qt_6_9_0_for_macOS-Debug/CMakeFiles/appQMLDemo_qmllint_module.rule",
+			"path" : "build/Qt_6_9_0_for_macOS-Debug/CMakeFiles/appQMLDemo_qmllint.rule",
 			"sourceGroupIndex" : 1
 		}
 	],

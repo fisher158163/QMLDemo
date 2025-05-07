@@ -1,12 +1,11 @@
 {
-	"backtrace" : 5,
+	"backtrace" : 4,
 	"backtraceGraph" : 
 	{
 		"commands" : 
 		[
 			"add_custom_target",
-			"_qt_internal_qml_copy_files_to_build_dir",
-			"qt6_target_qml_sources",
+			"_qt_internal_qml_type_registration",
 			"qt6_add_qml_module",
 			"qt_add_qml_module"
 		],
@@ -21,39 +20,33 @@
 				"file" : 1
 			},
 			{
-				"command" : 4,
+				"command" : 3,
 				"file" : 1,
-				"line" : 18,
+				"line" : 24,
 				"parent" : 0
 			},
 			{
-				"command" : 3,
+				"command" : 2,
 				"file" : 0,
 				"line" : 1252,
 				"parent" : 1
 			},
 			{
-				"command" : 2,
-				"file" : 0,
-				"line" : 916,
-				"parent" : 2
-			},
-			{
 				"command" : 1,
 				"file" : 0,
-				"line" : 3465,
-				"parent" : 3
+				"line" : 796,
+				"parent" : 2
 			},
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 2851,
-				"parent" : 4
+				"line" : 3808,
+				"parent" : 3
 			}
 		]
 	},
-	"id" : "appQMLDemo_copy_qml::@6890427a1f51a3e7e1df",
-	"name" : "appQMLDemo_copy_qml",
+	"id" : "appQMLDemo_qmltyperegistration::@6890427a1f51a3e7e1df",
+	"name" : "appQMLDemo_qmltyperegistration",
 	"paths" : 
 	{
 		"build" : ".",
@@ -80,21 +73,21 @@
 	"sources" : 
 	[
 		{
-			"backtrace" : 5,
+			"backtrace" : 4,
 			"isGenerated" : true,
-			"path" : "build/Qt_6_9_0_for_macOS-Debug/CMakeFiles/appQMLDemo_copy_qml",
+			"path" : "build/Qt_6_9_0_for_macOS-Debug/CMakeFiles/appQMLDemo_qmltyperegistration",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 0,
 			"isGenerated" : true,
-			"path" : "build/Qt_6_9_0_for_macOS-Debug/CMakeFiles/appQMLDemo_copy_qml.rule",
+			"path" : "build/Qt_6_9_0_for_macOS-Debug/CMakeFiles/appQMLDemo_qmltyperegistration.rule",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 0,
 			"isGenerated" : true,
-			"path" : "build/Qt_6_9_0_for_macOS-Debug/.qt/appQMLDemo_qml.txt.rule",
+			"path" : "build/Qt_6_9_0_for_macOS-Debug/appqmldemo_qmltyperegistrations.cpp.rule",
 			"sourceGroupIndex" : 1
 		}
 	],

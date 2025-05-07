@@ -5,7 +5,7 @@
 		"commands" : 
 		[
 			"add_custom_target",
-			"_qt_internal_target_enable_qmllint",
+			"_qt_internal_qml_copy_files_to_build_dir",
 			"qt6_target_qml_sources",
 			"qt6_add_qml_module",
 			"qt_add_qml_module"
@@ -23,7 +23,7 @@
 			{
 				"command" : 4,
 				"file" : 1,
-				"line" : 18,
+				"line" : 24,
 				"parent" : 0
 			},
 			{
@@ -41,29 +41,19 @@
 			{
 				"command" : 1,
 				"file" : 0,
-				"line" : 3215,
+				"line" : 3471,
 				"parent" : 3
 			},
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 1499,
+				"line" : 2851,
 				"parent" : 4
 			}
 		]
 	},
-	"dependencies" : 
-	[
-		{
-			"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df"
-		}
-	],
-	"folder" : 
-	{
-		"name" : "/QmlLinter"
-	},
-	"id" : "appQMLDemo_qmllint_json::@6890427a1f51a3e7e1df",
-	"name" : "appQMLDemo_qmllint_json",
+	"id" : "appQMLDemo_copy_res::@6890427a1f51a3e7e1df",
+	"name" : "appQMLDemo_copy_res",
 	"paths" : 
 	{
 		"build" : ".",
@@ -82,7 +72,8 @@
 			"name" : "CMake Rules",
 			"sourceIndexes" : 
 			[
-				1
+				1,
+				2
 			]
 		}
 	],
@@ -91,13 +82,19 @@
 		{
 			"backtrace" : 5,
 			"isGenerated" : true,
-			"path" : "build/Qt_6_9_0_for_macOS-Debug/CMakeFiles/appQMLDemo_qmllint_json",
+			"path" : "build/Qt_6_9_0_for_macOS-Debug/CMakeFiles/appQMLDemo_copy_res",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 0,
 			"isGenerated" : true,
-			"path" : "build/Qt_6_9_0_for_macOS-Debug/CMakeFiles/appQMLDemo_qmllint_json.rule",
+			"path" : "build/Qt_6_9_0_for_macOS-Debug/CMakeFiles/appQMLDemo_copy_res.rule",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_9_0_for_macOS-Debug/.qt/appQMLDemo_res.txt.rule",
 			"sourceGroupIndex" : 1
 		}
 	],

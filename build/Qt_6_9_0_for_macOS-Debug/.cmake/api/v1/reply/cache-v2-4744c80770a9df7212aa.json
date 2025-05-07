@@ -6587,7 +6587,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/usr/local"
+			"value" : "/tmp"
 		},
 		{
 			"name" : "__qt_qml_macros_module_base_dir",
